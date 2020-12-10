@@ -1,0 +1,91 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		}
+	    ,{
+            "path" : "pages/visit/visit",
+           "style": {
+           	"navigationBarTitleText": "",
+           	"app-plus": {
+           		"titleNView": false //禁用原生导航栏
+           	}
+           }
+            
+        }
+        ,{
+            "path" : "pages/department/department",
+           "style": {
+           	"navigationBarTitleText": "",
+           	"app-plus": {
+           		"titleNView": false //禁用原生导航栏
+           	}
+           }
+            
+        }
+        ,{
+            "path" : "pages/department/details",
+            "style": {
+            	"navigationBarTitleText": "",
+            	"app-plus": {
+            		"titleNView": false //禁用原生导航栏
+            	}
+            }
+        }
+        ,{
+            "path" : "pages/compony/compony",
+            "style": {
+            	"navigationBarTitleText": "",
+            	"app-plus": {
+            		"titleNView": false //禁用原生导航栏
+            	}
+            }
+            
+        }
+        ,{
+            "path" : "pages/floor/floor",
+            "style" :                                                                                    
+            {
+            	"navigationBarTitleText": "",
+            	"app-plus": {
+            		"titleNView": false //禁用原生导航栏
+            	}
+            }
+            
+        }
+        ,{
+            "path" : "pages/floor/floorDetails",
+            "style" :                                                                                    
+            {
+            	"navigationBarTitleText": "",
+            	"app-plus": {
+            		"titleNView": false //禁用原生导航栏
+            	}
+            }
+            
+        }
+        ,{
+            "path" : "pages/guidance/guidance",
+            "style" :                                                                                    
+            {
+            	"navigationBarTitleText": "",
+            	"app-plus": {
+            		"titleNView": false //禁用原生导航栏
+            	}
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
